@@ -70,7 +70,6 @@ UnblurAI/
 
 ## 安装和运行
 
-
 > [!NOTE] 
 > 使用本项目需要有效的智谱AI API Key。请访问 [智谱AI开放平台](https://open.bigmodel.cn/) 获取API密钥。
 
@@ -83,7 +82,7 @@ UnblurAI/
 ### 1. 克隆项目
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/laoshuikaixue/UnblurAI.git
 cd UnblurAI
 ```
 
