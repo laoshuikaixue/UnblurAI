@@ -70,6 +70,10 @@ UnblurAI/
 
 ## 安装和运行
 
+
+> [!NOTE] 
+> 使用本项目需要有效的智谱AI API Key。请访问 [智谱AI开放平台](https://open.bigmodel.cn/) 获取API密钥。
+
 ### 环境要求
 
 - Node.js 18+
@@ -116,7 +120,7 @@ npm run dev
 
 ## API 接口文档
 
-### 上传并识别图片（流式）
+### 上传并识别图片
 
 **接口地址：** `POST /api/upload-stream`
 
@@ -172,7 +176,3 @@ npm run dev
 ## 许可证
 
 [GPL-3.0 License](LICENSE)
-
----
-
-**注意：** 使用本系统需要有效的智谱AI API Key。请访问 [智谱AI开放平台](https://open.bigmodel.cn/) 获取API密钥。
