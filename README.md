@@ -11,6 +11,7 @@ UnblurAI 是一个基于 GLM-4.5V 视觉理解模型的智能文字去模糊识�
 | 原始图片 | ![原始清晰文字图片](https://github.com/user-attachments/assets/80774491-9451-465d-85a4-b22ad621894a) | 原始清晰文字图片             |
 | 识别图片 | ![识别处理模糊图片](https://github.com/user-attachments/assets/558bf4be-c58f-4b27-972b-9f453c322e40) | 用户上传的模糊文字图片，文字内容难以辨认 |
 | 识别结果 | ![清晰文字输出结果](https://github.com/user-attachments/assets/c33bd375-8578-47cb-8bd0-1a0c6e51e043) | 系统成功识别并输出的清晰的文字内容    |
+| Diff | ![Diff](https://github.com/user-attachments/assets/487edeb9-d65f-4acb-a28a-ffb8be179547)     | 识别结果与原始字段的差异         |   
 
 ## 项目截图
 <img width="3200" height="1904" alt="83b16f2f7ab4b57cfe8714b898261bf6" src="https://github.com/user-attachments/assets/2b254647-9df0-4e72-ac6b-470178642154" />
